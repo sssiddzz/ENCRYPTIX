@@ -1,0 +1,29 @@
+body {
+  font-family:Roboto Condensed;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header, footer {
+  background-color:black;
+  color: white;
+  text-align: center;
+  padding: 1em 0;
+}
+main {
+  padding: 2em;
+}
+section {
+  margin-bottom: 2em;
+}
+.feature {
+  border: 1px solid lightgrey;
+  padding: 1em;
+  margin: 1em 0;
+}
+ h2, h3 {
+  color:black;
+}
+h1{
+  color: white;
+}
